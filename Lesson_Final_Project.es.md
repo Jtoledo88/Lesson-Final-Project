@@ -1,6 +1,6 @@
 ## **Proyecto Final del Bootcamp de Programación**
 
-Bienvenido al Proyecto Final,
+Te damos la bienvenida al Proyecto Final,
 
 Nos acercamos al momento de poner a prueba todo lo aprendido en el bootcamp con la realización del Proyecto Final. Este proyecto les permitirá aplicar sus conocimientos en un contexto real y desarrollar una aplicación completa utilizando diversas tecnologías y herramientas. A continuación, les explicamos los requerimientos y expectativas del proyecto.
 
@@ -28,7 +28,7 @@ Deben implementar un sistema de autentificación que incluya:
 - Se debe utilizar una plantilla CSS o Bootstrap como base del diseño del proyecto.
 - La plantilla debe ser modificada y personalizada para adaptarse a las necesidades y estética del proyecto a través de un administrador.
 
-4) **API Customizada con OAuth**
+4) **API Personalizada con OAuth**
 
 - Deben crear una API personalizada que utilice OAuth para la autenticación y autorización.
 - Esta API debe manejar todas las operaciones necesarias para el funcionamiento de su aplicación, como la gestión de usuarios, manejo de datos, etc.
@@ -53,3 +53,5 @@ Deben implementar un sistema de autentificación que incluya:
 Este proyecto les permitirá demostrar sus habilidades y conocimientos adquiridos durante el bootcamp. Es una excelente oportunidad para resolver problemas reales y construir una aplicación que puedan mostrar en su portafolio profesional.
 
 ¡Estamos emocionados de ver sus proyectos y confiamos en que harán un trabajo increíble!
+
+**Nota**: si te gustaria trabajar con otras personas en la realización de este proyecto, lo puedes hacer, comunícate con nosotros para penerte en contacto con otros estudiantes que estén listos para realizar su proyecto final. 
